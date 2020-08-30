@@ -1,0 +1,1 @@
+This is a one-page responsive travel website I created following a YouTube tutorial.
